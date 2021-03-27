@@ -1,0 +1,54 @@
+.logo{
+    position: absolute;
+    left: 287;
+    top: 260;
+    
+    height: 95;
+    width: 275;
+}
+.text_input{
+    position: absolute;
+    bottom: 550;
+    left: 255;
+    width: 350;
+    height: 30;
+    border-radius: 18px;
+    border-style:solid;
+}
+
+
+.nav-bar {
+    display: inline;
+    list-style-type: none;
+    position: absolute;
+    left: 670;
+    font-size: 18px;
+
+    
+}
+
+li {
+    display: inline;
+  }
+  #profile{ 
+      display: inline;
+      width: 30;
+      height: 30;
+      border-radius: 50%;
+
+
+  }
+
+  .footer-box{
+    display: block;
+    background-color: gray;
+    opacity: 0.77;
+    font-size: 18px;
+    line-height: 14px;
+    margin-left: 20px;
+    padding: 50px;
+    position: absolute;
+    top: 900;
+    height: 10; 
+    width: 750;
+  }
