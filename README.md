@@ -1,0 +1,1 @@
+Goal of project: recreate a static webpage. In this case, the google homepage.
