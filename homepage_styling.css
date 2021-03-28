@@ -1,35 +1,45 @@
 .logo{
-    position: absolute;
-    left: 287;
-    top: 260;
-    
-    height: 95;
+    margin: auto;
+    padding-top: 300px;
+
     width: 275;
 }
 .text_input{
+    margin: auto;
     position: absolute;
-    bottom: 550;
-    left: 255;
-    width: 350;
-    height: 30;
+    bottom: 450;
+    left: 570;
+    width: 550;
+    height: 40;
     border-radius: 18px;
     border-style:solid;
+    border-width: 0.1;
+    padding-left: 25;
 }
 
+.button{
+    
+    position:relative;
+    top: 80;
+    left:800;
+
+
+
+  
+}
 
 .nav-bar {
     display: inline;
     list-style-type: none;
-    position: absolute;
-    left: 670;
+    position:absolute;
+    top:0;
+    right:30;
     font-size: 18px;
 
     
 }
 
-li {
-    display: inline;
-  }
+
   #profile{ 
       display: inline;
       width: 30;
@@ -41,14 +51,31 @@ li {
 
   .footer-box{
     display: block;
-    background-color: gray;
-    opacity: 0.77;
-    font-size: 18px;
-    line-height: 14px;
-    margin-left: 20px;
-    padding: 50px;
-    position: absolute;
-    top: 900;
-    height: 10; 
-    width: 750;
+    background-color: lightgray;
+
+    position:absolute;
+    bottom:0;
+    right:0;
+    left: 0;
+    opacity: 40%;
   }
+  #footer-box1{
+    display: block;
+    background-color: lightgray;
+    opacity: 40%;
+
+    position:absolute;
+    bottom:50;
+    right:0;
+    left: 0;
+  }
+
+.footer-box-right{
+    position: relative;
+    left: 1150;
+}
+li{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
