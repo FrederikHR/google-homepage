@@ -1,5 +1,4 @@
-# [See Google Homepage](https://frederikhr.github.io/google-homepage/)
-# Goal of project: recreate a static webpage. In this case, the google homepage.
+# [See Recreated Google Homepage](https://frederikhr.github.io/google-homepage/)
 # Made as a part of The Odin Project: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css
 
 
